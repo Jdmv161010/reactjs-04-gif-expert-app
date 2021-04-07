@@ -12,7 +12,6 @@ export const AddCategory = ({ setCategories }) => {
   const handleSubmit = (e) => {
     //Evita comportamientos por defecto del <form/>
     e.preventDefault();
-
     if (inputValue.trim().length > 2) {
       setCategories((ctg) => [inputValue, ...ctg]);
       setInputValue("");
@@ -21,6 +20,7 @@ export const AddCategory = ({ setCategories }) => {
 
   return (
     <form onSubmit={handleSubmit}>
+      <p>{inputValue}</p>
       <input type="text" value={inputValue} onChange={handleInputChange} />
     </form>
   );

@@ -1,3 +1,15 @@
+# Temas puntuales en los que se trabajó:
+
+    - Custom Hooks
+    - Fetch hacia un API
+    - Comunicación entre componentes
+    - Clases de CSS
+    - Animaciones
+    - Enviar métodos como argumentos
+    - Crear listados
+    - keys
+    - Giphy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
