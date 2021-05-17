@@ -1,14 +1,25 @@
-# Temas puntuales en los que se trabajó:
+# Temas puntuales de la sección
 
-    - Custom Hooks
-    - Fetch hacia un API
-    - Comunicación entre componentes
-    - Clases de CSS
-    - Animaciones
-    - Enviar métodos como argumentos
-    - Crear listados
-    - keys
-    - Giphy
++ Custom Hooks
++ Fetch hacia un API
++ Comunicación entre componentes
++ Clases de CSS
++ Animaciones
++ Enviar métodos como argumentos
++ Crear listados
++ keys
++ Giphy
+
+Pruebas
+
++ Seguir el camino de las pruebas
++ Pruebas en componentes específicos
++ Pruebas en componentes de forma individual
++ Pruebas con customHooks
++ Esperar cambios en un customHook
++ Simular eventos en inputs y formularios
++ Simular llamadas a funciones
++ Evaluar si existen elementos en el componente
 
 # Getting Started with Create React App
 
